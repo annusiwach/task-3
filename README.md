@@ -52,4 +52,6 @@ This dashboard is fully optimized with **Cross-Filtering Interactivity**.
 * High-resolution snapshot of the default executive view.
 <img width="1083" height="580" alt="Screenshot 2026-07-08 150234" src="https://github.com/user-attachments/assets/2f4e719d-e982-495e-8bcb-3bc613f932f5" />
 
-*
+*Screenshot demonstrating active cross-filtering and segment drill-downs.
+<img width="1135" height="588" alt="Screenshot 2026-07-08 152607" src="https://github.com/user-attachments/assets/5c10f000-d9da-4867-b775-c1134e0ab737" />
+
